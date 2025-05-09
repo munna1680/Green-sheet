@@ -1,3 +1,7 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "With Java/Solve with Java/src",
+        "With Java/GreenSheet/src/main/java/org/example"
+    ]
 }
