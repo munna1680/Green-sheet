@@ -3,5 +3,8 @@
     "java.project.sourcePaths": [
         "With Java/Solve with Java/src",
         "With Java/GreenSheet/src/main/java/org/example"
-    ]
+    ],
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
